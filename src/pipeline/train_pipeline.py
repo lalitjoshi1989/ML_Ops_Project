@@ -1,0 +1,1 @@
+## Here all the code related to training the data will be written. All the componecnts will be called. 
